@@ -12,4 +12,4 @@ Dado as perguntas abaixo, responda :
 # 
 
 ## Considerações
-Para responder a este notebook, precisei conectar ao banco de dados MySql para extrair as tabelas com as informações necessárias para responder as perguntas. Contribuindo ainda mais para crescimento de análise exploratória de dados, utilizando a ferramenta Python.
+Para responder a este notebook, precisei conectar ao banco de dados MySql para extrair as tabelas com as informações necessárias. Contribuindo ainda mais para crescimento de análise exploratória de dados, utilizando a ferramenta Python.
